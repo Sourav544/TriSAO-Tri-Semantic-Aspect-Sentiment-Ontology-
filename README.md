@@ -8,5 +8,5 @@ An ontology is a formal specification of a conceptualization, consisting of a de
 
 ![Ontology Diagram](sent_onto2.jpg)
 
-![Proposed Architecture](sent_onto2.jpg)
+![Proposed Architecture](Architecture.png)
 
