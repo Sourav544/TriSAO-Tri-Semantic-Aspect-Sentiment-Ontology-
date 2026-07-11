@@ -1,4 +1,4 @@
-# GoEmotions Proposed RoBERTa
+# RoBERTa
 
 This repository contains an improved multi-label text classification model based on RoBERTa.
 
