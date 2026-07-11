@@ -6,8 +6,11 @@ An ontology is a formal specification of a conceptualization, consisting of a de
 2. Sentiment analysis of multi-modal data typically provides only the emotion or opinion associated with an image or text (e.g., online reviews). However, understanding the underlying aspect that triggers this sentiment is equally important. The TriSAO ontology addresses this by explicitly modelling the aspect behind the sentiment.  
 3. Comparing and differentiating between the domains of multi-modal data requires semantic similarity analysis to determine the degree of relatedness or difference. The proposed ontology enables this process by providing a similarity score that reflects the semantic closeness of multi-modal content.
 ---
-The proposed architecture is shown in the figure below:
+The Proposed TriSAO Ontology classes are shown below using OntoGraf:
 ![Ontology Diagram](sent_onto2.jpg)
 
+The proposed architecture is shown in the figure below:
 ![Proposed Architecture](Architecture.png)
-
+---
+The proposed RoBERTa model for the sentiment analysis architecture is shown below:
+![Proposed RoBERTa](Roberta_architecture.png)
