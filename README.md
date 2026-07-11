@@ -5,7 +5,8 @@ An ontology is a formal specification of a conceptualization, consisting of a de
 1. Classifying sentiments in multi-modal data is challenging due to the complexity of scenarios captured in images or expressed in text, particularly in diverse online contexts. The proposed ontology assists in defining the background and domain, thereby improving the accuracy of sentiment classification.  
 2. Sentiment analysis of multi-modal data typically provides only the emotion or opinion associated with an image or text (e.g., online reviews). However, understanding the underlying aspect that triggers this sentiment is equally important. The TriSAO ontology addresses this by explicitly modelling the aspect behind the sentiment.  
 3. Comparing and differentiating between the domains of multi-modal data requires semantic similarity analysis to determine the degree of relatedness or difference. The proposed ontology enables this process by providing a similarity score that reflects the semantic closeness of multi-modal content.
-
+---
+The proposed architecture is shown in the figure below:
 ![Ontology Diagram](sent_onto2.jpg)
 
 ![Proposed Architecture](Architecture.png)
