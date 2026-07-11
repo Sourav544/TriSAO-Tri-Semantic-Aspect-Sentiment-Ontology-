@@ -14,3 +14,8 @@ The proposed architecture is shown in the figure below:
 ---
 The proposed RoBERTa model for the sentiment analysis architecture is shown below:
 ![Proposed RoBERTa](RoBERTa/Roberta_architecture.png)
+
+
+
+## Citation
+This work has been accepted for publication in the journal *Expert Systems with Applications*.
