@@ -18,4 +18,15 @@ The proposed RoBERTa model for the sentiment analysis architecture is shown belo
 
 
 ## Citation
-This work has been accepted for publication in the journal *Expert Systems with Applications*.
+If you find this repo useful, please cite our paper.
+
+@article{PANDEY2026133635,
+title = {TriSAO: A Multimedia ontology for Cross-Domain Classification through Sentiment and Semantic Similarity Analysis},
+journal = {Expert Systems with Applications},
+author = {Sourav Pandey and Akanksha Priya and Ashish Singh Patel},
+pages = {133635},
+year = {2026},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2026.133635},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417426025431},
+}
